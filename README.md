@@ -1,4 +1,4 @@
-Ques. 7. Design a scheduling program to implements a Queue with two levels: 
+Ques. 7. Design a scheduling program to implements a Queue with 2 levels: 
 Level 1 : Fixed priority preemptive Scheduling
 Level 2 : Round Robin Scheduling
 For a Fixed priority preemptive Scheduling (Queue 1), the Priority 0 is highest priority. If one 
